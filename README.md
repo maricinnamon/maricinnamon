@@ -1,17 +1,58 @@
 # Hi, I'm Maryna Antonevych (Marina Antonevich) 👋
 👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science | 🎖 Kaggle tier: Notebooks Expert
 
+### 📩 e-mail: marina.antonevich@gmail.com
 <br/>
 
-## [💻 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/) 
-## [👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
-## [🦾 Kaggle Page](https://www.kaggle.com/maricinnamon)
-## [📄 Google Scholar](https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk)
+# My Links
+|   |   |   |
+|---|---|---|
+| [👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)  |  [👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)  |  [👤 Kaggle Page](https://www.kaggle.com/maricinnamon) |
+|   |   |   |
+| [❤️ My YouTube Channel "Learn AI"](https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw)  | [❤️ My YouTube Channel's Instagram Page](https://www.instagram.com/learn.ai.python/)  | [❤️ YouTube Channel's GitHub Page](https://github.com/learn-ai-python)  |
+|   |   |   |
+| [📄 Google Scholar](https://scholar.google.com/citations?user=1FYbaYwAAAAJ&hl=uk)|[📄 Scopus](https://www.scopus.com/authid/detail.uri?authorId=57216150467) |[📄 OrcID](https://orcid.org/0000-0003-3640-7630) | 
+|   |   |   |
 
-## [❤️ My YouTube Channel "Learn AI"](https://www.youtube.com/channel/UCEJ8IRbmEl3tEZahc17pwrw)
-## [👩‍💻 YouTube Channel's GitHub Page](https://github.com/learn-ai-python)
-## [📚 My YouTube Channel's Instagram Page](https://www.instagram.com/learn.ai.python/)
+<br/>
 
+# 💻 Work experience
+- **Data scientist at Kapowai, Kyiv, Ukraine (January 2021 - Present).** Implementing data science technologies to fintech software.
+- **Student internship at World data center for Geoinformatics and Sustainable Development, Kyiv, Ukraine (January 2020 - February 2020).** Worked with ArcGIS software (ArcMap, ArcGIS Desktop, ArcGIS Online). Worked and analyzed geoinformatics data.
+- **Student internship at Infopulse, Kyiv, Ukraine (January 2019 - February 2019).** Worked with local Moodle learning platform.
+
+<br/>
+
+# 👩‍🎓 Education
+- **Master's Degree in Computer Science (Artificial Intelligence Technologies)**, Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2020-2022).
+- **Bachelor's degree in Computer Science (Artificial Intelligence Systems)**, Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
+
+<br/>
+
+# 👩‍💻 Scientific interests
+- artificial intelligence; 
+- data science; 
+- machine learning; 
+- deep learning; 
+- computer vision; 
+- evolutionary algorithms & computations.
+
+<br/>
+
+# 💾 Other information
+### Skills & Proficiencies
+- **Programming:** Python (OpenCV, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn,  etc). Worked with Tableau, SQL, C++, C#.
+- **PC instruments:** MS Office, Adobe Photoshop;
+- **Social media management:** Instagram, YouTube, Telegram;
+- **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020)
+
+### Social activities
+- Headgirl of our university group (Autumn 2020 - May 2022).
+- Gratitude paper for active participation in the student movement Campus Ukraine (February 2020).
+- An active participant of Campus Ukraine English Clubs, Speak Out Summer English Camps (2016-2020).
+
+### Scholarship
+- Academic [scholarship named after M.S. Grushevsky](https://mon.gov.ua/ua/npa/pro-priznachennya-akademichnoyi-stipendiyi-imeni-m-s-grushevskogo-na-ii-semestr-20202021-navchalnogo-roku) for the second semester of the 2020/2021 academic year.
 
 
 <!---
