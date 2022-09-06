@@ -1,6 +1,5 @@
 # Hi, I'm Maryna Antonevych (Marina Antonevich) 👋
 👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science | 🎖 Kaggle tier: Notebooks Expert
-
 ### 📩 e-mail: marina.antonevich@gmail.com
 <br/>
 
@@ -24,8 +23,28 @@
 <br/>
 
 # 👩‍🎓 Education
-- **Master's Degree in Computer Science (Artificial Intelligence Technologies)**, Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2020-2022).
-- **Bachelor's degree in Computer Science (Artificial Intelligence Systems)**, Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
+### 📍 Master's Degree in Computer Science (Artificial Intelligence Technologies), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2020-2022).
+- **GPA:** 97.916 (out of 0-100)
+- **Activities:** Headgirl of our university group
+- **Diploma with honors**
+- **Graduate Work, 2022:** "Development and research of the intelligent technology for determining the attractiveness of animals from the shelter" (Python: fastai, Flask; MySQL; HTML/CSS/JS)
+- **Term Paper, 2021:** Intelligent face recognition technology in the video stream (Python: tensorflow, dlib). 
+    - Mention: 🔗 http://kiis.knu.ua/kursovij-proekt-z-tehnologij-shtuchnogo-intelektu/
+
+### 📍 Bachelor's degree in Computer Science (Artificial Intelligence Systems), Faculty of Information Technology, Taras Shevchenko National University of Kyiv, Ukraine (2016-2020).
+- **GPA:** 97.54 (out of 0-100)
+- **Diploma with honors**
+
+- **Graduate Work, 2020:** "Intelligent application for the agricultural plants’ diseases identification based on deep learning" (Python: PyTorch, Flask; MySQL; HTML/CSS/JS).
+    - Conference on this topic: 🔗 http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf (pp. 184-185)
+
+- **Term Paper, 2019:** "Comparative analysis of evolutionary modeling methods. The method of deformed stars for optimizing a function. Four-dimensional and five-dimensional case" (Python).
+     - Conference on this topic: 🔗 https://ieeexplore.ieee.org/document/9030453 <br/>
+     - Conference on this topic: 🔗 http://iti.fit.univ.kiev.ua/wp-content/uploads/ITI-2019.pdf (pp. 203-205)<br/>
+
+- **Term Paper, 2018:** "Logistics system with transportation optimization based on the application of a genetic algorithm" (C++)
+- **Term Paper, 2018:** "Hotel administrator information system" (MS Access, SQL)
+
 
 <br/>
 
@@ -40,19 +59,19 @@
 <br/>
 
 # 💾 Other information
-### Skills & Proficiencies
+### 📍 Skills & Proficiencies
 - **Programming:** Python (OpenCV, TensorFlow, NumPy, Pandas, Matplotlib, Seaborn,  etc). Worked with Tableau, SQL, C++, C#.
 - **PC instruments:** MS Office, Adobe Photoshop;
 - **Social media management:** Instagram, YouTube, Telegram;
 - **Foreign languages:** English: B2, Certificate: English for Professional Purposes, issued by Taras Shevchenko National University of Kyiv (June 2020)
 
-### Social activities
+### 📍 Social activities
 - Headgirl of our university group (Autumn 2020 - May 2022).
 - Gratitude paper for active participation in the student movement Campus Ukraine (February 2020).
 - An active participant of Campus Ukraine English Clubs, Speak Out Summer English Camps (2016-2020).
 
-### Scholarship
-- Academic [scholarship named after M.S. Grushevsky](https://mon.gov.ua/ua/npa/pro-priznachennya-akademichnoyi-stipendiyi-imeni-m-s-grushevskogo-na-ii-semestr-20202021-navchalnogo-roku) for the second semester of the 2020/2021 academic year.
+### 📍 Scholarships
+- Academic scholarship named after M.S. Grushevsky for the [second semester of the 2020/2021](https://mon.gov.ua/ua/npa/pro-priznachennya-akademichnoyi-stipendiyi-imeni-m-s-grushevskogo-na-ii-semestr-20202021-navchalnogo-roku) academic year.
 
 
 <!---
