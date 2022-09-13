@@ -13,4 +13,4 @@
 |   |   |   |   |
 <br/>
 
-# 💻 Full Information is on [my website](https://maricinnamon.github.io/)
+# 💻 Check my full information on [my website](https://maricinnamon.github.io/)
