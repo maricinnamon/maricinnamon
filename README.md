@@ -1,8 +1,8 @@
-# Hi, I'm Maryna Antonevych (Marina Antonevich) 👋
+# 👋 Hi, I'm Maryna Antonevych (Marina Antonevich)
 👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science | 🎖 Kaggle tier: Notebooks Expert
 <br/>
 
-# My Links
+# 🔗 My Links
 |   |   |   |   |
 |---|---|---|---|
 | [👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)  |  [👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)  |  [👤 Kaggle Page](https://www.kaggle.com/maricinnamon) | [👤 GitHub](https://github.com/maricinnamon)  |
@@ -13,4 +13,4 @@
 |   |   |   |   |
 <br/>
 
-# Full Information is on [my website](https://maricinnamon.github.io/)
+# 💻 Full Information is on [my website](https://maricinnamon.github.io/)
