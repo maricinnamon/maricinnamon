@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Maryna Antonevych
-👩‍💻 Data scientist | 👩‍🎓 Master of Computer Science
+# 👋 Hi, I'm Maryna Antonevych | Привіт, я Марина Антоневич
+👩‍💻 Data scientist • 👩‍🎓 Master of Computer Science | 👩‍💻 Дейта саєнтіст • 👩‍🎓 Магістр компʼютерних наук
 <br/>
 
-# 🔗 My Links
+# 🔗 My Links | Мої посилання
 |   |   |   |   |
 |---|---|---|---|
-| [👤 CV / Curriculum Vitae / Resume](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)  |  [👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)  |  [👤 Kaggle](https://www.kaggle.com/maricinnamon) | [👤 GitHub](https://github.com/maricinnamon)  |
+| [👤 CV](https://www.canva.com/design/DAE6YtdOBAQ/AjIeHbKUTYxZucwciY135w/view?utm_content=DAE6YtdOBAQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)  |  [👤 LinkedIn](https://www.linkedin.com/in/maryna-antonevych/)  |  [👤 Kaggle](https://www.kaggle.com/maricinnamon) | [👤 GitHub](https://github.com/maricinnamon)  |
 |   |   |   |   |
 | [❤️ TikTok "Learn AI Python" (UA)](https://www.tiktok.com/@learn.ai.python?lang=uk-UA))  | [❤️ "Learn AI Python" Instagram (UA)](https://www.instagram.com/learn.ai.python/)  | [❤️ "Learn AI Python" GitHub](https://github.com/learn-ai-python)  |   |
 |   |   |   |   |
