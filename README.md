@@ -16,6 +16,9 @@
 # 💻 Check my full information on [my page](https://maricinnamon.github.io/)
 <br/>
 <br/>
+<p align="center"> • </p>
+<br/>
+<br/>
 
 
 # 👋 Привіт, я Марина Антоневич
