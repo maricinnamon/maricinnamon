@@ -13,7 +13,7 @@
 |   |   |   |   |
 <br/>
 
-# 💻 Check my full information on [my page](https://maricinnamon.github.io/)
+# 💻 Check my full information in [my CV](https://maricinnamon.github.io/)
 <br/>
 <br/>
 <p align="center"> • </p>
@@ -36,6 +36,6 @@
 |   |   |   |   |
 <br/>
 
-# 💻 Повну інформацію шукайте на [моїй сторінці](https://maricinnamon.github.io/)
+# 💻 Повну інформацію шукайте у [моєму резюме](https://maricinnamon.github.io/)
 
 
